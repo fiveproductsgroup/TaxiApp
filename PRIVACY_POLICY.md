@@ -54,13 +54,10 @@ We retain your information as long as your account is active or as needed to:
 
 ---
 
-## 6. Your Rights
-Depending on your jurisdiction, you may have rights to:
-- Access, update, or delete your personal information.
-- Restrict or object to certain processing.
-- Withdraw consent where applicable.
+## 6. Data Deletion
+You have the right to request the deletion of your data.
 
-To exercise these rights, please contact us at **fiveproductsgroup@gmail.com**.
+To exercise this right, please contact us at **fiveproductsgroup@gmail.com**.
 
 ---
 
